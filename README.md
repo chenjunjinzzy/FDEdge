@@ -72,3 +72,10 @@ To run this code, please install some key packages: torch, NumPy, and matplotlib
 [4] M. Tang and V. W. Wong, “Deep reinforcement learning for task offloading in mobile edge computing systems,” IEEE Transactions on Mobile Computing, vol. 21, no. 6, pp. 1985–1997, 2022. [code](https://github.com/ChangfuXu/Deep-Q-learning-for-mobile-edge-computing)
 
 [5] H. Du, Z. Li, D. Niyato, J. Kang, Z. Xiong, H. Huang, and S. Mao, “Diffusion-based reinforcement learning for edge-enabled ai-generated content services,” IEEE Transactions on Mobile Computing, 2024. [Code](https://github.com/Lizonghang/AGOD)
+
+# Citation
+If our method can be used in your paper, please help cite:
+
+@article{xu2024dynamic, title={Dynamic Parallel Multi-Server Selection and Allocation in Collaborative Edge Computing}, author={Xu, Changfu and Guo, Jianxiong and Li, Yupeng and Zou, Haodong and Jia, Weijia and Wang, Tian}, journal={IEEE Transactions on Mobile Computing}, year={2024, doi: 10.1109/TMC.2024.3376550.}, publisher={IEEE}}
+
+@inproceedings{xu2024enhancing, title={Enhancing AI-Generated Content Efficiency through Adaptive Multi-Edge Collaboration}, author={Xu, Changfu and Guo, Jianxiong and Zeng, Jiandian and Meng, Shengguang and Chu, Xiaowen and Cao, Jiannong and Wang, Tian}, booktitle={204 IEEE 44th International Conference on Distributed Computing Systems (ICDCS)}, pages={960-970}, year={2024}, publisher={IEEE}}
