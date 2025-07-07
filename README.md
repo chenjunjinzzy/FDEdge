@@ -1,5 +1,5 @@
 # FDEdge Implementation
-This repo is an implementation of our paper "**Enhancing QoE in Collaborative Edge Systems with Feedback Diffusion Generative Scheduling**", **submitted to IEEE Transactions on Mobile Computing**. In this repo, we implement the proposed FDEdge method and baselines in our paper.
+This repo is an implementation of our paper "**Enhancing QoE in Collaborative Edge Systems with Feedback Diffusion Generative Scheduling**", **Accepted by IEEE Transactions on Mobile Computing**. In this repo, we implement the proposed FDEdge method and baselines in our paper.
 
 ## I. FDEdge Framework
 we propose the FDEdge method by designing a feedback diffusion model-based DRL framework, which can generate better task-scheduling solutions with multi-step decision-making.
@@ -75,6 +75,7 @@ To run this code, please install some key packages: torch, NumPy, and matplotlib
 
 # Citation
 If our method can be used in your paper, please help cite:
+@article{xu2025enhancing, title={Enhancing QoE in Collaborative Edge Systems with Feedback Diffusion Generative Scheduling}, author={Xu, Changfu and Guo, Jianxiong and Liang, Yuzhu and Zou, Haodong and Zeng, Jiandian and Dai, Haipeng and Jia, Weijia and Cao, Jiannong and Wang, Tian}, journal={IEEE Transactions on Mobile Computing}, year={2025}, publisher={IEEE}}
 
 @article{xu2024dynamic, title={Dynamic Parallel Multi-Server Selection and Allocation in Collaborative Edge Computing}, author={Xu, Changfu and Guo, Jianxiong and Li, Yupeng and Zou, Haodong and Jia, Weijia and Wang, Tian}, journal={IEEE Transactions on Mobile Computing}, year={2024, doi: 10.1109/TMC.2024.3376550.}, publisher={IEEE}}
 
