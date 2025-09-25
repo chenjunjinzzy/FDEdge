@@ -18,7 +18,7 @@ def FDScheduling_algorithm():
     critic_lr = 1e-3  # Critic 学习率
     alpha = 0.05  # 熵正则温度系数（控制探索强度）
     alpha_lr = 3e-4  # 熵参数学习率
-    episodes = 5  # 训练的总轮数
+    episodes = 100   # 训练的总轮数
     denoising_steps = 5  # 扩散调度模型的去噪步数
     hidden_dim = 128  # 神经网络隐藏层宽度
     gamma = 0.95  # 折扣因子
